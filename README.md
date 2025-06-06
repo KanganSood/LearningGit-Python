@@ -1,2 +1,2 @@
 # LearningGit-Python
-My Git+Python repository
+My Git+Python repository KSOR R1
